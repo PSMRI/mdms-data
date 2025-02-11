@@ -1,0 +1,16 @@
+{
+    "tenantId": "bh.bhopal",
+    "moduleName": "BillingService",
+    "GLCode": [
+        {
+            "code": "BIRTH_CERT",
+            "glcode": null,
+            "cb": "mp.bhopal"
+        },
+        {
+            "code": "DEATH_CERT",
+            "glcode": null,
+            "cb": "mp.bhopal"
+        }
+    ]
+}

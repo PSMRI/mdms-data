@@ -1,0 +1,18 @@
+{
+  "tenantId": "bh",
+  "moduleName": "common-masters",
+  "CronJobAPIConfig": [
+    {
+      "jobName": "daily",
+      "active": "true",
+      "method": "POST",
+      "url": "http://pgr-services.egov:8080/pgr-services/cron/request/_auto",
+      "payload": {
+        "RequestInfo": "{DEFAULT_REQUESTINFO}"
+      },
+      "header": {
+        "Content-Type": "application/json"
+      }
+    }
+  ]
+}

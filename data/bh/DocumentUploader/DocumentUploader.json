@@ -1,0 +1,18 @@
+{
+    "tenantId": "bh",
+    "moduleName": "DocumentUploader",
+    "UlbLevelCategories": [
+      {
+        "ulb": "mp.citya",
+        "categoryList": ["CATEGORY_CITIZEN_CHARTER","CATEGORY_FORMS","CATEGORY_TENDERS","CATEGORY_CIRCULARS","CATEGORY_GOVERNMENT_ORDERS"]
+      },
+      {
+        "ulb": "mp.cityb",
+        "categoryList": ["CATEGORY_CITIZEN_CHARTER","CATEGORY_FORMS","CATEGORY_TENDERS","CATEGORY_CIRCULARS","CATEGORY_GOVERNMENT_ORDERS"]
+      },
+      {
+        "ulb": "mp.cityc",
+        "categoryList": ["CATEGORY_CITIZEN_CHARTER","CATEGORY_FORMS","CATEGORY_TENDERS","CATEGORY_CIRCULARS","CATEGORY_GOVERNMENT_ORDERS"]
+      }
+    ]
+  }

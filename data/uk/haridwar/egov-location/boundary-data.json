@@ -1,0 +1,3013 @@
+{
+  "tenantId": "uk.haridwar",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "haridwar",
+        "localname": "haridwar",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "uk.haridwar",
+        "children": [
+          {
+            "id": "8d0656da-9105-4a8f-a7bc-93b9c6d4fbf6",
+            "boundaryNum": 1,
+            "name": "Haridwar",
+            "localname": "Haridwar",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "ZONE1",
+            "children": [
+              {
+                "id": "9a516214-fd78-4f98-a15d-508163987b6a",
+                "boundaryNum": 1,
+                "name": "SAPT RISHI",
+                "localname": "SAPT RISHI",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W11747",
+                "children": [
+                  {
+                    "id": "d04318cb-8b42-4bb1-8f67-6fadc297ada4",
+                    "boundaryNum": 1,
+                    "name": "BHOPATWALAA - SAPT RISHI",
+                    "localname": "BHOPATWALAA - SAPT RISHI",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0001",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "4782a15e-9678-48b8-b46c-a47c61c7c75a",
+                    "boundaryNum": 1,
+                    "name": "SAPTRISHIASHRAM - SAPT RISHI",
+                    "localname": "SAPTRISHIASHRAM - SAPT RISHI",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0002",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "d25c0b8f-41cf-4193-960f-66a60c43cfef",
+                    "boundaryNum": 1,
+                    "name": "SANGAMPURI - SAPT RISHI",
+                    "localname": "SANGAMPURI - SAPT RISHI",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0003",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "6d251e8c-651f-458d-8f56-39f4ca9676f6",
+                    "boundaryNum": 1,
+                    "name": "RANIGALI - SAPT RISHI",
+                    "localname": "RANIGALI - SAPT RISHI",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0004",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "43b6c1a9-44c0-4270-8cd9-824d4c84a02e",
+                "boundaryNum": 1,
+                "name": "BHUPATWALA",
+                "localname": "BHUPATWALA",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W11748",
+                "children": [
+                  {
+                    "id": "82b99647-b164-47bf-befb-e88bf736d34a",
+                    "boundaryNum": 1,
+                    "name": "GANGAAVIHAR - BHUPATWALA",
+                    "localname": "GANGAAVIHAR - BHUPATWALA",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0005",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "5adecbab-fe62-4fa2-919a-e334b9c3895c",
+                    "boundaryNum": 1,
+                    "name": "OMVIHAR - BHUPATWALA",
+                    "localname": "OMVIHAR - BHUPATWALA",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0006",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "0f7e9161-c8d6-4625-be31-4f10e64c80b0",
+                    "boundaryNum": 1,
+                    "name": "UTTAMBASTI - BHUPATWALA",
+                    "localname": "UTTAMBASTI - BHUPATWALA",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0007",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "cdc3abd5-ebac-448e-8cf8-6c59ce572ef8",
+                    "boundaryNum": 1,
+                    "name": "SATYAM VIHAR - BHUPATWALA",
+                    "localname": "SATYAM VIHAR - BHUPATWALA",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0008",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "80183b19-ee44-459f-8bf2-2d7c1912bea8",
+                    "boundaryNum": 1,
+                    "name": "GAYATRI VIHAR - BHUPATWALA",
+                    "localname": "GAYATRI VIHAR - BHUPATWALA",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0009",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "6d715ccc-30b4-477d-9823-6866f87570ea",
+                    "boundaryNum": 1,
+                    "name": "BHOPATWALAA - BHUPATWALA",
+                    "localname": "BHOPATWALAA - BHUPATWALA",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0186",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "22fda1c8-33c2-4e40-af9f-03065c99ac22",
+                "boundaryNum": 1,
+                "name": "DURGANAGAR",
+                "localname": "DURGANAGAR",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W11749",
+                "children": [
+                  {
+                    "id": "af93d24d-243f-4fca-afb7-25bb41427072",
+                    "boundaryNum": 1,
+                    "name": "DURGANAGAR - DURGANAGAR",
+                    "localname": "DURGANAGAR - DURGANAGAR",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0010",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "6441df91-0877-42f7-85ac-a534efd3b97c",
+                "boundaryNum": 1,
+                "name": "KHAR KHARI",
+                "localname": "KHAR KHARI",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W11750",
+                "children": [
+                  {
+                    "id": "883a0b1a-7bd4-40db-a55a-a46daaf4ffdb",
+                    "boundaryNum": 1,
+                    "name": "BASANT GALI - KHAR KHARI",
+                    "localname": "BASANT GALI - KHAR KHARI",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0011",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "67e2d705-e021-4fbd-a9ad-9dde57566e98",
+                    "boundaryNum": 1,
+                    "name": "KUNJ GLI - KHAR KHARI",
+                    "localname": "KUNJ GLI - KHAR KHARI",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0012",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "7b905b94-d46e-4867-8f82-5e985e3b1815",
+                    "boundaryNum": 1,
+                    "name": "KRISHNA GALI - KHAR KHARI",
+                    "localname": "KRISHNA GALI - KHAR KHARI",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0013",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "2b704684-d188-4cba-a55c-98c03ba226d8",
+                    "boundaryNum": 1,
+                    "name": "KHARIKHARI - KHAR KHARI",
+                    "localname": "KHARIKHARI - KHAR KHARI",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0014",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "84cdf651-daf9-4e58-810d-2f8cc1b6afb6",
+                "boundaryNum": 1,
+                "name": "SHRI GANGA DHER MAHADEV NAGAR",
+                "localname": "SHRI GANGA DHER MAHADEV NAGAR",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W11751",
+                "children": [
+                  {
+                    "id": "adf19454-35ae-44cf-932c-129780191c01",
+                    "boundaryNum": 1,
+                    "name": "MHAADEV NAGAR - SHRI GANGA DHER MAHADEV NAGAR",
+                    "localname": "MHAADEV NAGAR - SHRI GANGA DHER MAHADEV NAGAR",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0015",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "cc800c86-72d8-4d8e-94e3-a65b93e97065",
+                    "boundaryNum": 1,
+                    "name": "BALMIKI BASTI - SHRI GANGA DHER MAHADEV NAGAR",
+                    "localname": "BALMIKI BASTI - SHRI GANGA DHER MAHADEV NAGAR",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0016",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "028dd6c1-d6cf-4586-9b70-efde6e5ff8ab",
+                "boundaryNum": 1,
+                "name": "BHIMGODA",
+                "localname": "BHIMGODA",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W11752",
+                "children": [
+                  {
+                    "id": "dbd7cd9f-906e-4ea7-b517-dd24772a4273",
+                    "boundaryNum": 1,
+                    "name": "BHEEMGOWDA - BHIMGODA",
+                    "localname": "BHEEMGOWDA - BHIMGODA",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0017",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "6c05280c-c3ad-4741-b201-1754414ba0a9",
+                    "boundaryNum": 1,
+                    "name": "NYI BASTI - BHIMGODA",
+                    "localname": "NYI BASTI - BHIMGODA",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0018",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "fe1d3528-8787-4078-a6c9-0bd729932cca",
+                    "boundaryNum": 1,
+                    "name": "BALMIKI BASTI - BHIMGODA",
+                    "localname": "BALMIKI BASTI - BHIMGODA",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0019",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "e27ba5d3-b0b5-4c23-a5b4-55d2ab1e5148",
+                "boundaryNum": 1,
+                "name": "HAR KI PAURI",
+                "localname": "HAR KI PAURI",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W11753",
+                "children": [
+                  {
+                    "id": "f6d46b7c-c6c9-4e4f-a8d7-8a80c32c1311",
+                    "boundaryNum": 1,
+                    "name": "HARI KI PAURI - HAR KI PAURI",
+                    "localname": "HARI KI PAURI - HAR KI PAURI",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0020",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "2585ac47-6f44-42b8-87d7-02069e76f971",
+                    "boundaryNum": 1,
+                    "name": "MOTI BAZAR - HAR KI PAURI",
+                    "localname": "MOTI BAZAR - HAR KI PAURI",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0021",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "71842fde-3942-401a-b88d-e72e3d7dd81d",
+                    "boundaryNum": 1,
+                    "name": "JOGIYAA MNDI - HAR KI PAURI",
+                    "localname": "JOGIYAA MNDI - HAR KI PAURI",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0022",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "eb8d37a0-06de-46bd-a71f-5f9a88e65867",
+                    "boundaryNum": 1,
+                    "name": "PLATFORM - HAR KI PAURI",
+                    "localname": "PLATFORM - HAR KI PAURI",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0175",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "2b60fe10-8168-4478-b9c2-8e2e97d30fa1",
+                "boundaryNum": 1,
+                "name": "GAU GHATT",
+                "localname": "GAU GHATT",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W11754",
+                "children": [
+                  {
+                    "id": "2d3e4305-115c-4383-b423-de1df849c603",
+                    "boundaryNum": 1,
+                    "name": "GANESH GHAAT - GAU GHATT",
+                    "localname": "GANESH GHAAT - GAU GHATT",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0023",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "c4c9f6df-bfd4-4179-8a03-ad2b4e323178",
+                    "boundaryNum": 1,
+                    "name": "VISHNU GHAA - GAU GHATT",
+                    "localname": "VISHNU GHAA - GAU GHATT",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0024",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "8f31bc01-23c0-42ee-92b5-8e07a5be3e29",
+                    "boundaryNum": 1,
+                    "name": "RAAMGHAAT - GAU GHATT",
+                    "localname": "RAAMGHAAT - GAU GHATT",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0025",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "45c1eb73-1331-41a6-9654-4b8371aab169",
+                    "boundaryNum": 1,
+                    "name": "GAUGHAAT - GAU GHATT",
+                    "localname": "GAUGHAAT - GAU GHATT",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0026",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "31a62c85-3ca0-4da3-ac5c-1fd7cca182bb",
+                    "boundaryNum": 1,
+                    "name": "MOTI BAZAR - GAU GHATT",
+                    "localname": "MOTI BAZAR - GAU GHATT",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0027",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "46e3c6ff-4e8b-4abd-b9ce-f8ef59c4dbc3",
+                    "boundaryNum": 1,
+                    "name": "GAUGHAT - GAU GHATT",
+                    "localname": "GAUGHAT - GAU GHATT",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0171",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "d83bf8b8-c4f5-4554-8d7f-e17599bc6f45",
+                    "boundaryNum": 1,
+                    "name": "BADA BAZAR - GAU GHATT",
+                    "localname": "BADA BAZAR - GAU GHATT",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0176",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "db3712f7-0f6b-4c21-9897-5c09c42503d8",
+                    "boundaryNum": 1,
+                    "name": "Kushaghat - GAU GHATT",
+                    "localname": "Kushaghat - GAU GHATT",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0182",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "6e7248e2-3cd9-4d3f-8f43-baf47acc00b0",
+                "boundaryNum": 1,
+                "name": "BRAHAM PURI",
+                "localname": "BRAHAM PURI",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W11755",
+                "children": [
+                  {
+                    "id": "3600474f-0940-43b1-9d5d-3a3fda3e608e",
+                    "boundaryNum": 1,
+                    "name": "BRAHMPURI - BRAHAM PURI",
+                    "localname": "BRAHMPURI - BRAHAM PURI",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0028",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "bbdbab60-5094-4736-b34e-d65b5745be97",
+                "boundaryNum": 1,
+                "name": "BILKESHWER COLONY",
+                "localname": "BILKESHWER COLONY",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W11756",
+                "children": [
+                  {
+                    "id": "02d574ec-6983-4e69-a8df-bcc05d57e7f0",
+                    "boundaryNum": 1,
+                    "name": "JHALKARI BASTI - BILKESHWER COLONY",
+                    "localname": "JHALKARI BASTI - BILKESHWER COLONY",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0029",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "781357b7-c2e9-4476-8e8e-a093a48c54c2",
+                    "boundaryNum": 1,
+                    "name": "NIRMLAA CHAWANI - BILKESHWER COLONY",
+                    "localname": "NIRMLAA CHAWANI - BILKESHWER COLONY",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0030",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "1c807791-6af6-4856-b736-15019c0e7697",
+                    "boundaryNum": 1,
+                    "name": "VILVKESHWAR COLONY - BILKESHWER COLONY",
+                    "localname": "VILVKESHWAR COLONY - BILKESHWER COLONY",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0031",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "3bf1683b-f9f8-4631-8bb9-e207c10e1b90",
+                "boundaryNum": 1,
+                "name": "SHRWAN NATH NAGAR",
+                "localname": "SHRWAN NATH NAGAR",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W11757",
+                "children": [
+                  {
+                    "id": "cde31a55-a23f-45fa-94eb-8d8eb74292ec",
+                    "boundaryNum": 1,
+                    "name": "SHRAVANNAATH NAGAR - SHRWAN NATH NAGAR",
+                    "localname": "SHRAVANNAATH NAGAR - SHRWAN NATH NAGAR",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0032",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "d04b2397-e788-4be0-9a06-21dc54f0654b",
+                "boundaryNum": 1,
+                "name": "NIRMALA CHWANI",
+                "localname": "NIRMALA CHWANI",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W11758",
+                "children": [
+                  {
+                    "id": "348ee00e-7fb0-4fc3-89d8-4f9f441b717d",
+                    "boundaryNum": 1,
+                    "name": "MNIRMALA CHAWANI, - NIRMALA CHWANI",
+                    "localname": "MNIRMALA CHAWANI, - NIRMALA CHWANI",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0033",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "a377a0e7-a462-496e-9628-13ca8f310076",
+                    "boundaryNum": 1,
+                    "name": "INDUSTRIAL AREA - NIRMALA CHWANI",
+                    "localname": "INDUSTRIAL AREA - NIRMALA CHWANI",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0034",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "38c30723-61d7-4f0f-95ce-8b23f26fc610",
+                    "boundaryNum": 1,
+                    "name": "INDIRAA BSTI - NIRMALA CHWANI",
+                    "localname": "INDIRAA BSTI - NIRMALA CHWANI",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0035",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "1a27789d-cacf-44c1-9041-4526242721ba",
+                "boundaryNum": 1,
+                "name": "MAYAPUR",
+                "localname": "MAYAPUR",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W11759",
+                "children": [
+                  {
+                    "id": "f6dfe97e-c4d8-4cec-a292-71893bcdb0e0",
+                    "boundaryNum": 1,
+                    "name": "MAYAPUR - MAYAPUR",
+                    "localname": "MAYAPUR - MAYAPUR",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0036",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "fa84f5be-696e-4bf1-ace9-449bc3737c96",
+                "boundaryNum": 1,
+                "name": "RISHIKUL",
+                "localname": "RISHIKUL",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W11760",
+                "children": [
+                  {
+                    "id": "22733dd7-5b9f-4307-89ad-adbb98529eec",
+                    "boundaryNum": 1,
+                    "name": "RISHIKUL - RISHIKUL",
+                    "localname": "RISHIKUL - RISHIKUL",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0037",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "5b13db48-a339-4862-9699-40214af201f5",
+                    "boundaryNum": 1,
+                    "name": "VIKAS COLONY - RISHIKUL",
+                    "localname": "VIKAS COLONY - RISHIKUL",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0038",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "ddb36772-9039-402b-bbd5-7fec3f438886",
+                "boundaryNum": 1,
+                "name": "VIVEK VIHAR",
+                "localname": "VIVEK VIHAR",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W11761",
+                "children": [
+                  {
+                    "id": "47a27464-7112-4ef0-b6b1-4c080f0b407c",
+                    "boundaryNum": 1,
+                    "name": "AWAS VIKAS - VIVEK VIHAR",
+                    "localname": "AWAS VIKAS - VIVEK VIHAR",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0039",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "8b789ab2-b350-422c-8443-72deedff5d0b",
+                    "boundaryNum": 1,
+                    "name": "VIVEK VIHAR - VIVEK VIHAR",
+                    "localname": "VIVEK VIHAR - VIVEK VIHAR",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0040",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "51c8738a-518b-4e46-9526-f781bd6211e8",
+                "boundaryNum": 1,
+                "name": "SHIVLOK",
+                "localname": "SHIVLOK",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W11762",
+                "children": [
+                  {
+                    "id": "9431652b-1d3a-4880-a5de-ae12d270ce8f",
+                    "boundaryNum": 1,
+                    "name": "WATER WORKS COLONY - SHIVLOK",
+                    "localname": "WATER WORKS COLONY - SHIVLOK",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0041",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "a0c10da6-a4d1-4079-999c-0b04a770df50",
+                    "boundaryNum": 1,
+                    "name": "SHIVLOK - SHIVLOK",
+                    "localname": "SHIVLOK - SHIVLOK",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0042",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "c535fde7-9ae4-4d43-aa2f-d00b6ed2ed0a",
+                "boundaryNum": 1,
+                "name": "TIBRI",
+                "localname": "TIBRI",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W11763",
+                "children": [
+                  {
+                    "id": "c18eea8f-fe6b-4669-a10c-993b24282bf8",
+                    "boundaryNum": 1,
+                    "name": "SANJAY NAGAR - TIBRI",
+                    "localname": "SANJAY NAGAR - TIBRI",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0043",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "2231f9d0-38d3-4db5-82bf-0ece78bbb3dd",
+                    "boundaryNum": 1,
+                    "name": "TIBDI - TIBRI",
+                    "localname": "TIBDI - TIBRI",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0044",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "ef05ad8d-657c-4584-82a8-ae60f944b072",
+                "boundaryNum": 1,
+                "name": "GOVINDPURI",
+                "localname": "GOVINDPURI",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W11764",
+                "children": [
+                  {
+                    "id": "75956288-55d5-439d-a075-4858764df387",
+                    "boundaryNum": 1,
+                    "name": "AVDHOOT MANDAL ASHRAM - GOVINDPURI",
+                    "localname": "AVDHOOT MANDAL ASHRAM - GOVINDPURI",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0045",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "acf2fd5d-f8c9-4a94-8fa9-db156f85c2d5",
+                    "boundaryNum": 1,
+                    "name": "VIKAS COLONY - GOVINDPURI",
+                    "localname": "VIKAS COLONY - GOVINDPURI",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0046",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "bd768f9d-5fe9-48ea-9496-9700e58e77e6",
+                    "boundaryNum": 1,
+                    "name": "RAJEEV NAGAR - GOVINDPURI",
+                    "localname": "RAJEEV NAGAR - GOVINDPURI",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0047",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "ce98a773-65d6-4f4f-9a34-4edc4f757782",
+                    "boundaryNum": 1,
+                    "name": "GOVINDPURI - GOVINDPURI",
+                    "localname": "GOVINDPURI - GOVINDPURI",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0048",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "7bb7832f-6c75-4a57-a35c-03a03d644a35",
+                "boundaryNum": 1,
+                "name": "KHANNA NAGAR",
+                "localname": "KHANNA NAGAR",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W11765",
+                "children": [
+                  {
+                    "id": "97345227-8a70-4bbe-9675-e5ebdd44baac",
+                    "boundaryNum": 1,
+                    "name": "AVDHOOT MANDAL ASHRAM - KHANNA NAGAR",
+                    "localname": "AVDHOOT MANDAL ASHRAM - KHANNA NAGAR",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0049",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "345faf8f-d931-4ce1-8202-43c07490576c",
+                    "boundaryNum": 1,
+                    "name": "NYAA HARIDWAR - KHANNA NAGAR",
+                    "localname": "NYAA HARIDWAR - KHANNA NAGAR",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0050",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "05a707e4-3dfb-4875-ad1e-1eed8e8b7fd4",
+                    "boundaryNum": 1,
+                    "name": "KHANNA NAGAR - KHANNA NAGAR",
+                    "localname": "KHANNA NAGAR - KHANNA NAGAR",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0051",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "f5c9ffff-9efb-4b4b-8eaa-d504755dfa23",
+                    "boundaryNum": 1,
+                    "name": "NAND VIHAR - KHANNA NAGAR",
+                    "localname": "NAND VIHAR - KHANNA NAGAR",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0052",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "883bbffb-7f5d-4347-a078-1226c8d37ca9",
+                    "boundaryNum": 1,
+                    "name": "SHARAD VIHAR - KHANNA NAGAR",
+                    "localname": "SHARAD VIHAR - KHANNA NAGAR",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0053",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "82a4f71a-eea4-4af8-93e6-dbba696e95da",
+                "boundaryNum": 1,
+                "name": "AWAS VIKAS",
+                "localname": "AWAS VIKAS",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W11766",
+                "children": [
+                  {
+                    "id": "b837ac44-3859-4bbb-964f-420d7709574a",
+                    "boundaryNum": 1,
+                    "name": "MEENA ENCLAVE - AWAS VIKAS",
+                    "localname": "MEENA ENCLAVE - AWAS VIKAS",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0054",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "ce6830e1-541e-41ee-b15e-bed3464a7e98",
+                    "boundaryNum": 1,
+                    "name": "SHUBHASH NAGAR - AWAS VIKAS",
+                    "localname": "SHUBHASH NAGAR - AWAS VIKAS",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0055",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "5d527058-81cd-46b1-94f5-874c37b16473",
+                    "boundaryNum": 1,
+                    "name": "AADARSH NAGAR - AWAS VIKAS",
+                    "localname": "AADARSH NAGAR - AWAS VIKAS",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0056",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "2b1c4118-6acd-4546-953f-f8346147f134",
+                    "boundaryNum": 1,
+                    "name": "MODAL COLONY - AWAS VIKAS",
+                    "localname": "MODAL COLONY - AWAS VIKAS",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0057",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "ce547d13-f29e-4d75-8579-6d146dedee1f",
+                    "boundaryNum": 1,
+                    "name": "AVAS VIKAS - AWAS VIKAS",
+                    "localname": "AVAS VIKAS - AWAS VIKAS",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0058",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "17fa7802-4636-4a34-8950-507d54fece21",
+                "boundaryNum": 1,
+                "name": "SHARDA NAGAR",
+                "localname": "SHARDA NAGAR",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W11767",
+                "children": [
+                  {
+                    "id": "52b26e12-807a-471a-ac31-bc8e1de365f6",
+                    "boundaryNum": 1,
+                    "name": "ARYA NAGAR - SHARDA NAGAR",
+                    "localname": "ARYA NAGAR - SHARDA NAGAR",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0059",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "9281eeb3-1b2f-4bfc-b819-92b0b6df6e3c",
+                    "boundaryNum": 1,
+                    "name": "SHARADA NAGAR - SHARDA NAGAR",
+                    "localname": "SHARADA NAGAR - SHARDA NAGAR",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0060",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "b2c127ff-d6bc-4194-bcf6-13679e8f3654",
+                "boundaryNum": 1,
+                "name": "AARYANAGAR",
+                "localname": "AARYANAGAR",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W11768",
+                "children": [
+                  {
+                    "id": "861cd57f-141e-4fd5-9b6d-45f15cf1157e",
+                    "boundaryNum": 1,
+                    "name": "ARYANAGAR - AARYANAGAR",
+                    "localname": "ARYANAGAR - AARYANAGAR",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0061",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "d5aca9f9-2a49-4cbc-b730-bfc311fe4a47",
+                    "boundaryNum": 1,
+                    "name": "RAJEEV NAGAR - AARYANAGAR",
+                    "localname": "RAJEEV NAGAR - AARYANAGAR",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0062",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "f7a8bf47-2432-48d6-91fc-5c385d2730e3",
+                    "boundaryNum": 1,
+                    "name": "SHANTI VHAR - AARYANAGAR",
+                    "localname": "SHANTI VHAR - AARYANAGAR",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0063",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "e2a8d86c-54d4-496e-b60d-588edf66534f",
+                "boundaryNum": 1,
+                "name": "RAMNAGAR",
+                "localname": "RAMNAGAR",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W11769",
+                "children": [
+                  {
+                    "id": "1fb8a7b8-50a1-4d77-b231-e73b02d9a9bc",
+                    "boundaryNum": 1,
+                    "name": "AVDHOOT MANDAL AASHRAM - RAMNAGAR",
+                    "localname": "AVDHOOT MANDAL AASHRAM - RAMNAGAR",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0064",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "2ed20f16-2050-4e54-aa91-00dc4ec1e8dd",
+                    "boundaryNum": 1,
+                    "name": "RAAMNAGAR - RAMNAGAR",
+                    "localname": "RAAMNAGAR - RAMNAGAR",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0065",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "d2e64700-ce4d-4963-8848-a885ec9d2d6a",
+                    "boundaryNum": 1,
+                    "name": "ISLAM NAGAR - RAMNAGAR",
+                    "localname": "ISLAM NAGAR - RAMNAGAR",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0066",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "4e4bf502-c96a-41ee-a241-8279c8d77c95",
+                    "boundaryNum": 1,
+                    "name": "DAYANAND NAGARI - RAMNAGAR",
+                    "localname": "DAYANAND NAGARI - RAMNAGAR",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0067",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "0f86e591-7560-43a8-a2aa-1bbeec890175",
+                    "boundaryNum": 1,
+                    "name": "NANDPURI - RAMNAGAR",
+                    "localname": "NANDPURI - RAMNAGAR",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0068",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "f51c67ab-f2b2-4690-a22e-7c0aa323883f",
+                "boundaryNum": 1,
+                "name": "KRISHNA NAGAR",
+                "localname": "KRISHNA NAGAR",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W11770",
+                "children": [
+                  {
+                    "id": "106f4b52-c88b-49a8-987a-f78c9db44abd",
+                    "boundaryNum": 1,
+                    "name": "KRISHNA NAGAR - KRISHNA NAGAR",
+                    "localname": "KRISHNA NAGAR - KRISHNA NAGAR",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0069",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "8206e306-0f17-476e-837f-4eeefe3a909a",
+                    "boundaryNum": 1,
+                    "name": "VISHNU GARDEN - KRISHNA NAGAR",
+                    "localname": "VISHNU GARDEN - KRISHNA NAGAR",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0070",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "135f95d5-518a-474c-829c-ccf77a0d30eb",
+                    "boundaryNum": 1,
+                    "name": "SHYAM VIHAR - KRISHNA NAGAR",
+                    "localname": "SHYAM VIHAR - KRISHNA NAGAR",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0071",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "fca76d1c-31e2-43a2-955a-636856b4b12b",
+                "boundaryNum": 1,
+                "name": "AACHARYAN",
+                "localname": "AACHARYAN",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W11771",
+                "children": [
+                  {
+                    "id": "a5dbe1cc-d9a1-4f27-86ba-0ede27060c36",
+                    "boundaryNum": 1,
+                    "name": "ACHARYAN - AACHARYAN",
+                    "localname": "ACHARYAN - AACHARYAN",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0072",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "9da0dca4-e234-47a9-84d8-ebba3e07a244",
+                    "boundaryNum": 1,
+                    "name": "MISHRA GARDEN - AACHARYAN",
+                    "localname": "MISHRA GARDEN - AACHARYAN",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0073",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "74ec7143-7595-4aa6-a1b6-e47ba7b45ae3",
+                    "boundaryNum": 1,
+                    "name": "VIDYA VIHAR - AACHARYAN",
+                    "localname": "VIDYA VIHAR - AACHARYAN",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0074",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "5ff9a4cb-d204-4820-a0d1-7b513b033097",
+                    "boundaryNum": 1,
+                    "name": "ABHISHEK NAGAR - AACHARYAN",
+                    "localname": "ABHISHEK NAGAR - AACHARYAN",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0075",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "1c4fad8c-9d0f-45b6-86a8-c9cd3fe621de",
+                    "boundaryNum": 1,
+                    "name": "BHAGWANTPURAM - AACHARYAN",
+                    "localname": "BHAGWANTPURAM - AACHARYAN",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0076",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "1f7a1e8a-a2d4-450f-84a6-8a9b28f56fe3",
+                    "boundaryNum": 1,
+                    "name": "INDU INCLAVE - AACHARYAN",
+                    "localname": "INDU INCLAVE - AACHARYAN",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0077",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "9d741de9-d797-4c3f-b9b1-937d730cb0fc",
+                    "boundaryNum": 1,
+                    "name": "SHIVPURA - AACHARYAN",
+                    "localname": "SHIVPURA - AACHARYAN",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0187",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "92f38f8a-525b-4f9b-bf28-445fed1fd142",
+                "boundaryNum": 1,
+                "name": "SHANDESH NAGAR",
+                "localname": "SHANDESH NAGAR",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W11772",
+                "children": [
+                  {
+                    "id": "c71fd3c9-e1f5-4f8d-b5bc-33b4fd81ccd0",
+                    "boundaryNum": 1,
+                    "name": "SAVDESH NAGAR - SHANDESH NAGAR",
+                    "localname": "SAVDESH NAGAR - SHANDESH NAGAR",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0078",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "9cdb9860-3fef-4617-a842-f80170036047",
+                    "boundaryNum": 1,
+                    "name": "DADUBAGH - SHANDESH NAGAR",
+                    "localname": "DADUBAGH - SHANDESH NAGAR",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0079",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "d0e306c1-b359-4146-9d1d-2c5a6d05c6d3",
+                    "boundaryNum": 1,
+                    "name": "HAZARI BAGH - SHANDESH NAGAR",
+                    "localname": "HAZARI BAGH - SHANDESH NAGAR",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0080",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "f73bc8d5-945c-4d52-8c78-7733c784062f",
+                    "boundaryNum": 1,
+                    "name": "DURGAANAGAR - SHANDESH NAGAR",
+                    "localname": "DURGAANAGAR - SHANDESH NAGAR",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0081",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "8bb83453-260a-44c7-bd63-f6495c153e8d",
+                    "boundaryNum": 1,
+                    "name": "HANUMANTPURAM - SHANDESH NAGAR",
+                    "localname": "HANUMANTPURAM - SHANDESH NAGAR",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0082",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "22b61554-5f19-4808-b95f-8619aaac7b99",
+                    "boundaryNum": 1,
+                    "name": "GURUBHAKSH VIHAR - SHANDESH NAGAR",
+                    "localname": "GURUBHAKSH VIHAR - SHANDESH NAGAR",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0083",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "2048638a-9ff7-409a-aed3-705da773f3ae",
+                    "boundaryNum": 1,
+                    "name": "SARV PRIYAA VIHAR - SHANDESH NAGAR",
+                    "localname": "SARV PRIYAA VIHAR - SHANDESH NAGAR",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0084",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "59f623bb-4c37-48d0-9ed5-c30d99b4ace9",
+                "boundaryNum": 1,
+                "name": "LATO WALI",
+                "localname": "LATO WALI",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W11773",
+                "children": [
+                  {
+                    "id": "7846ee3c-5469-46f2-81c9-8cada3790ed9",
+                    "boundaryNum": 1,
+                    "name": "LATOWALI - LATO WALI",
+                    "localname": "LATOWALI - LATO WALI",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0085",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "e16f69b7-f093-4c29-870e-84a546c51b55",
+                    "boundaryNum": 1,
+                    "name": "BRAHMVIHAR COLONY - LATO WALI",
+                    "localname": "BRAHMVIHAR COLONY - LATO WALI",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0086",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "8cc134c0-1a84-4985-87f4-d398554312e8",
+                    "boundaryNum": 1,
+                    "name": "LATOWALI - LATO WALI",
+                    "localname": "LATOWALI - LATO WALI",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0172",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "4940bd1a-49b8-467f-92cf-ef1697b9aa25",
+                    "boundaryNum": 1,
+                    "name": "Daksha Road - LATO WALI",
+                    "localname": "Daksha Road - LATO WALI",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0181",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "f5adfcfd-2912-41a5-82d7-16b4349521e9",
+                "boundaryNum": 1,
+                "name": "RAJ GHATT",
+                "localname": "RAJ GHATT",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W11774",
+                "children": [
+                  {
+                    "id": "e530cddf-a80e-4853-a371-c69e119921ce",
+                    "boundaryNum": 1,
+                    "name": "RAAJGHAAT - RAJ GHATT",
+                    "localname": "RAAJGHAAT - RAJ GHATT",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0087",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "e6d25181-3a2d-4202-bad3-f66df59ea5d7",
+                    "boundaryNum": 1,
+                    "name": "HOLI CHOWK - RAJ GHATT",
+                    "localname": "HOLI CHOWK - RAJ GHATT",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0088",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "b1f47520-25e1-4a41-8463-264618666c90",
+                    "boundaryNum": 1,
+                    "name": "MYAANAA - RAJ GHATT",
+                    "localname": "MYAANAA - RAJ GHATT",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0089",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "dbace0d6-e5f5-455d-8c4b-2856c43988f7",
+                    "boundaryNum": 1,
+                    "name": "CHOPTA - RAJ GHATT",
+                    "localname": "CHOPTA - RAJ GHATT",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0090",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "b7af71d4-6236-45dc-ac92-5541e2ac19b9",
+                    "boundaryNum": 1,
+                    "name": "RAAJGHAAT - RAJ GHATT",
+                    "localname": "RAAJGHAAT - RAJ GHATT",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0170",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "8c38703a-0793-4d7b-9a9e-7d387ca36e37",
+                    "boundaryNum": 1,
+                    "name": "Ram Leela Chowk - RAJ GHATT",
+                    "localname": "Ram Leela Chowk - RAJ GHATT",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0178",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "a1b0986a-c0d7-47f9-956e-170f194ad504",
+                    "boundaryNum": 1,
+                    "name": "Imali - RAJ GHATT",
+                    "localname": "Imali - RAJ GHATT",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0183",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "6a83b46e-7e13-4724-9107-3e4aaf655f45",
+                "boundaryNum": 1,
+                "name": "KUMHAR GHADA",
+                "localname": "KUMHAR GHADA",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W11775",
+                "children": [
+                  {
+                    "id": "938113c3-c343-4754-97a1-91fb5f1a17c2",
+                    "boundaryNum": 1,
+                    "name": "CHETANDEV KUTIYA - KUMHAR GHADA",
+                    "localname": "CHETANDEV KUTIYA - KUMHAR GHADA",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0091",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "87ccb152-4036-4036-8776-5528a48b36b7",
+                    "boundaryNum": 1,
+                    "name": "KUMHAAR GHADAA - KUMHAR GHADA",
+                    "localname": "KUMHAAR GHADAA - KUMHAR GHADA",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0092",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "d790c671-d9ec-4c0d-8bc0-c5f1efa92e83",
+                    "boundaryNum": 1,
+                    "name": "KUMHAAR GHADA - KUMHAR GHADA",
+                    "localname": "KUMHAAR GHADA - KUMHAR GHADA",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0174",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "7390524d-8bd3-4663-85bd-ac0ab7b2c30a",
+                    "boundaryNum": 1,
+                    "name": "Pahadi Bazar - KUMHAR GHADA",
+                    "localname": "Pahadi Bazar - KUMHAR GHADA",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0184",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "2b0b83af-36c1-4e84-ac5b-4a0335659d9b",
+                "boundaryNum": 1,
+                "name": "CHWOK BAZAR",
+                "localname": "CHWOK BAZAR",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W883723",
+                "children": [
+                  {
+                    "id": "b1ccc0b3-af79-4b8c-bb6a-fc558f16d14c",
+                    "boundaryNum": 1,
+                    "name": "CHOWK BAZAR - CHWOK BAZAR",
+                    "localname": "CHOWK BAZAR - CHWOK BAZAR",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0093",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "f1831f73-bbbe-40e6-af62-ac4862213930",
+                    "boundaryNum": 1,
+                    "name": "SATIGHAAT - CHWOK BAZAR",
+                    "localname": "SATIGHAAT - CHWOK BAZAR",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0094",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "237f4fb9-1f95-4e2b-a41a-a047720d81aa",
+                    "boundaryNum": 1,
+                    "name": "CHOWK BAZAR - CHWOK BAZAR",
+                    "localname": "CHOWK BAZAR - CHWOK BAZAR",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0173",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "5b32faa0-fe42-47af-913e-08db83d521fa",
+                    "boundaryNum": 1,
+                    "name": "Pahadi Bazar - CHWOK BAZAR",
+                    "localname": "Pahadi Bazar - CHWOK BAZAR",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0180",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "555b30df-7725-4508-93ec-45780b4c11b4",
+                    "boundaryNum": 1,
+                    "name": "Sanyas Road - CHWOK BAZAR",
+                    "localname": "Sanyas Road - CHWOK BAZAR",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0185",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "7b77d04d-90d1-4b99-92be-70b6672988d2",
+                "boundaryNum": 1,
+                "name": "RAVIDAS BASTI",
+                "localname": "RAVIDAS BASTI",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W928085",
+                "children": [
+                  {
+                    "id": "af4ef8ae-8af5-49f5-9b93-29d9f1a11226",
+                    "boundaryNum": 1,
+                    "name": "CHETANDEV KUTIYA - RAVIDAS BASTI",
+                    "localname": "CHETANDEV KUTIYA - RAVIDAS BASTI",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0095",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "ea720710-ceee-41a7-ba32-d70ee9a46411",
+                    "boundaryNum": 1,
+                    "name": "HIMGIRI COLONY - RAVIDAS BASTI",
+                    "localname": "HIMGIRI COLONY - RAVIDAS BASTI",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0096",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "b78591cb-870c-462a-82d9-107a24d97882",
+                    "boundaryNum": 1,
+                    "name": "GYANLOK COLONY - RAVIDAS BASTI",
+                    "localname": "GYANLOK COLONY - RAVIDAS BASTI",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0097",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "f1edbe44-a13e-4383-90af-a9496710bccc",
+                "boundaryNum": 1,
+                "name": "NATH NAGAR",
+                "localname": "NATH NAGAR",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W928086",
+                "children": [
+                  {
+                    "id": "2fa46cfa-746d-4959-a6e0-586ef4ff8919",
+                    "boundaryNum": 1,
+                    "name": "NAATH NGAR - NATH NAGAR",
+                    "localname": "NAATH NGAR - NATH NAGAR",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0098",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "94d7cb08-2710-4083-8675-9fa4a8c8a786",
+                    "boundaryNum": 1,
+                    "name": "HAZARI BAGH - NATH NAGAR",
+                    "localname": "HAZARI BAGH - NATH NAGAR",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0099",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "ccdaea47-8f3c-4ca9-a887-9f87e1889486",
+                    "boundaryNum": 1,
+                    "name": "JAHDEESH NAGAR - NATH NAGAR",
+                    "localname": "JAHDEESH NAGAR - NATH NAGAR",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0100",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "f2c1fa91-5fe5-4662-9be3-cad62756688c",
+                    "boundaryNum": 1,
+                    "name": "AADARSH NAGAR - NATH NAGAR",
+                    "localname": "AADARSH NAGAR - NATH NAGAR",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0101",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "500f42eb-6cee-478d-bec5-b7974b085cd2",
+                    "boundaryNum": 1,
+                    "name": "SHREERAAMNAGAR - NATH NAGAR",
+                    "localname": "SHREERAAMNAGAR - NATH NAGAR",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0102",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "247e6eab-4481-455b-be97-e0c78da78e62",
+                "boundaryNum": 1,
+                "name": "SHASTRI NAGAR",
+                "localname": "SHASTRI NAGAR",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W928087",
+                "children": [
+                  {
+                    "id": "4b3e2847-58f5-42c9-a9f9-09c255d9a563",
+                    "boundaryNum": 1,
+                    "name": "SHASHRINAGAR - SHASTRI NAGAR",
+                    "localname": "SHASHRINAGAR - SHASTRI NAGAR",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0103",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "40413ed7-a3e1-4a5a-8f52-72beccd7c26c",
+                    "boundaryNum": 1,
+                    "name": "SHREERAAMNAGAR - SHASTRI NAGAR",
+                    "localname": "SHREERAAMNAGAR - SHASTRI NAGAR",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0104",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "58e6d755-5930-4a70-bb89-b2c5f12496db",
+                    "boundaryNum": 1,
+                    "name": "KADACCH - SHASTRI NAGAR",
+                    "localname": "KADACCH - SHASTRI NAGAR",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0105",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "36cb2044-e4a3-45b9-921f-21423840fd81",
+                "boundaryNum": 1,
+                "name": "AMBEDKER NAGAR",
+                "localname": "AMBEDKER NAGAR",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W928088",
+                "children": [
+                  {
+                    "id": "401b1831-05a3-4c18-9562-640fdfaa02d4",
+                    "boundaryNum": 1,
+                    "name": "AMBEDKAR NAGAR - AMBEDKER NAGAR",
+                    "localname": "AMBEDKAR NAGAR - AMBEDKER NAGAR",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0106",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "34fac448-329f-4779-80ca-0893b89b0499",
+                    "boundaryNum": 1,
+                    "name": "KADACCH - AMBEDKER NAGAR",
+                    "localname": "KADACCH - AMBEDKER NAGAR",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0107",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "c8ab270e-aad4-40d7-98f7-1515566374f6",
+                "boundaryNum": 1,
+                "name": "KADECH",
+                "localname": "KADECH",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W928089",
+                "children": [
+                  {
+                    "id": "b0a8b3b4-e034-42ae-82b6-c74e18dc95d0",
+                    "boundaryNum": 1,
+                    "name": "KADACCH - KADECH",
+                    "localname": "KADACCH - KADECH",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0108",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "e96cc752-2333-4167-ba15-735406627a64",
+                    "boundaryNum": 1,
+                    "name": "EHBAAB NAGAR - KADECH",
+                    "localname": "EHBAAB NAGAR - KADECH",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0109",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "77ade817-ca75-4141-89b0-01d44c2b8113",
+                "boundaryNum": 1,
+                "name": "TALIYAN",
+                "localname": "TALIYAN",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W928090",
+                "children": [
+                  {
+                    "id": "11abd834-64da-4e30-a5ac-1e0ec8130ea7",
+                    "boundaryNum": 1,
+                    "name": "TELIYAAN - TALIYAN",
+                    "localname": "TELIYAAN - TALIYAN",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0110",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "ecaaca5a-f113-4396-969f-82d08f9e1fc2",
+                    "boundaryNum": 1,
+                    "name": "KAITWADA - TALIYAN",
+                    "localname": "KAITWADA - TALIYAN",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0111",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "b09b79ef-59ee-4f6f-9ddb-886ad18b7e42",
+                "boundaryNum": 1,
+                "name": "KOTRABAN",
+                "localname": "KOTRABAN",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W928091",
+                "children": [
+                  {
+                    "id": "584aa8f9-2b7e-49c1-b47b-601eda6f22df",
+                    "boundaryNum": 1,
+                    "name": "KOTARAWAAN - KOTRABAN",
+                    "localname": "KOTARAWAAN - KOTRABAN",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0112",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "69b7b51a-8a38-4723-8d26-62b9e2db1b92",
+                    "boundaryNum": 1,
+                    "name": "KAITWADA - KOTRABAN",
+                    "localname": "KAITWADA - KOTRABAN",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0113",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "321c5c5a-0dc7-4205-a927-42cc1a2ac31b",
+                "boundaryNum": 1,
+                "name": "MEHTAN",
+                "localname": "MEHTAN",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W928092",
+                "children": [
+                  {
+                    "id": "775900be-9b40-4ef5-8cd8-cb4ff40bfb51",
+                    "boundaryNum": 1,
+                    "name": "JHADAN - MEHTAN",
+                    "localname": "JHADAN - MEHTAN",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0114",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "c699bc60-cba2-4c73-9fcf-728161ec8fea",
+                    "boundaryNum": 1,
+                    "name": "CHOHNAAN - MEHTAN",
+                    "localname": "CHOHNAAN - MEHTAN",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0115",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "69127f36-cf86-475f-b5dd-b2ba36591d8a",
+                    "boundaryNum": 1,
+                    "name": "KUTTIMARAN - MEHTAN",
+                    "localname": "KUTTIMARAN - MEHTAN",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0116",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "718b8b2d-7b82-422f-823b-846c1089c66a",
+                    "boundaryNum": 1,
+                    "name": "DAATMNDI - MEHTAN",
+                    "localname": "DAATMNDI - MEHTAN",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0117",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "8ec8010c-3828-462e-ac23-84dde601eff9",
+                    "boundaryNum": 1,
+                    "name": "RAAMCHANDRKAANT - MEHTAN",
+                    "localname": "RAAMCHANDRKAANT - MEHTAN",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0118",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "1730c6ee-6ec3-4745-bac5-235f31a3b5c7",
+                    "boundaryNum": 1,
+                    "name": "MEHTAAN - MEHTAN",
+                    "localname": "MEHTAAN - MEHTAN",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0177",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "742f6e76-3861-4217-9efa-bd23d5a712af",
+                "boundaryNum": 1,
+                "name": "LODHAMANDI",
+                "localname": "LODHAMANDI",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W928093",
+                "children": [
+                  {
+                    "id": "44bcabe7-6b98-4c97-9ce1-722e97462695",
+                    "boundaryNum": 1,
+                    "name": "LODHAMANDI - LODHAMANDI",
+                    "localname": "LODHAMANDI - LODHAMANDI",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0119",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "f30e7530-6fdd-4a91-acdf-90eaa6335034",
+                "boundaryNum": 1,
+                "name": "PEETH BAZAR",
+                "localname": "PEETH BAZAR",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W928094",
+                "children": [
+                  {
+                    "id": "4c0f0dee-1a83-4e93-8280-2f1a9a164572",
+                    "boundaryNum": 1,
+                    "name": "KASAAVAAN - PEETH BAZAR",
+                    "localname": "KASAAVAAN - PEETH BAZAR",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0120",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "4728671d-1428-45f6-aa3e-366604aab9ab",
+                    "boundaryNum": 1,
+                    "name": "LODHAMANDI - PEETH BAZAR",
+                    "localname": "LODHAMANDI - PEETH BAZAR",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0121",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "b2e7b94a-51d5-4234-8361-40f9e73b640b",
+                "boundaryNum": 1,
+                "name": "KASSABAN",
+                "localname": "KASSABAN",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W928095",
+                "children": [
+                  {
+                    "id": "2142ed69-75fe-4e28-86fb-27f8bbb12db7",
+                    "boundaryNum": 1,
+                    "name": "KASSAVAAN - KASSABAN",
+                    "localname": "KASSAVAAN - KASSABAN",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0122",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "1adb6ea6-fd28-49af-890e-0f243df3933d",
+                "boundaryNum": 1,
+                "name": "VALMIKI BASTI",
+                "localname": "VALMIKI BASTI",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W928096",
+                "children": [
+                  {
+                    "id": "51acb99c-0691-4217-b92b-5bec1a791dc4",
+                    "boundaryNum": 1,
+                    "name": "PULJATWAADAA - VALMIKI BASTI",
+                    "localname": "PULJATWAADAA - VALMIKI BASTI",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0123",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "4245f4f2-0819-4a75-9db7-464a4ec2ffa8",
+                    "boundaryNum": 1,
+                    "name": "PANVDHOYI - VALMIKI BASTI",
+                    "localname": "PANVDHOYI - VALMIKI BASTI",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0124",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "9643e66b-f25d-4532-a6c9-e755d1cc1308",
+                "boundaryNum": 1,
+                "name": "PAWON DHOI",
+                "localname": "PAWON DHOI",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W928097",
+                "children": [
+                  {
+                    "id": "07f22c22-f410-4c2b-9cef-bcb76c6acda8",
+                    "boundaryNum": 1,
+                    "name": "PANVDHOYI - PAWON DHOI",
+                    "localname": "PANVDHOYI - PAWON DHOI",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0125",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "d40081af-203a-4dbe-bcfb-5d3493f0c448",
+                    "boundaryNum": 1,
+                    "name": "GHASHMANDI - PAWON DHOI",
+                    "localname": "GHASHMANDI - PAWON DHOI",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0126",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "89a8487f-2698-4960-9c04-b518306bc9a5",
+                "boundaryNum": 1,
+                "name": "TRIMURTI NAGAR",
+                "localname": "TRIMURTI NAGAR",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W928098",
+                "children": [
+                  {
+                    "id": "48fde38c-ba8c-4bf1-ba8e-fd20528bb981",
+                    "boundaryNum": 1,
+                    "name": "TRIMURTINAGAR - TRIMURTI NAGAR",
+                    "localname": "TRIMURTINAGAR - TRIMURTI NAGAR",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0127",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "33a99cbb-eda9-4820-bdeb-c40dc2a47a5d",
+                "boundaryNum": 1,
+                "name": "TAPOVAN NAGAR",
+                "localname": "TAPOVAN NAGAR",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W928099",
+                "children": [
+                  {
+                    "id": "e25c6f3f-127e-4b27-b222-92a452a6aad8",
+                    "boundaryNum": 1,
+                    "name": "TAPOVAN NAGAR - TAPOVAN NAGAR",
+                    "localname": "TAPOVAN NAGAR - TAPOVAN NAGAR",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0128",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "741d0045-a10c-4e1d-8853-8c1d297679af",
+                    "boundaryNum": 1,
+                    "name": "BABAR COLONY - TAPOVAN NAGAR",
+                    "localname": "BABAR COLONY - TAPOVAN NAGAR",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0129",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "f0078928-7fb2-4ed6-8e8b-89ed592cc0ad",
+                "boundaryNum": 1,
+                "name": "NEEL KHUDANA",
+                "localname": "NEEL KHUDANA",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W928100",
+                "children": [
+                  {
+                    "id": "f659a584-e0ce-4017-ad8c-b59f1189793f",
+                    "boundaryNum": 1,
+                    "name": "FIRAHEDIYAAN - NEEL KHUDANA",
+                    "localname": "FIRAHEDIYAAN - NEEL KHUDANA",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0130",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "2557dc7b-2c96-4263-8f1e-5ca59454ee61",
+                    "boundaryNum": 1,
+                    "name": "PANDEYWALA - NEEL KHUDANA",
+                    "localname": "PANDEYWALA - NEEL KHUDANA",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0131",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "3a09165f-a5b9-4f5b-83be-c80785266587",
+                    "boundaryNum": 1,
+                    "name": "NEELKHUDANA - NEEL KHUDANA",
+                    "localname": "NEELKHUDANA - NEEL KHUDANA",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0132",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "ea47f01a-f961-4dbf-95f3-c52029c0c704",
+                    "boundaryNum": 1,
+                    "name": "PULJATWADA - NEEL KHUDANA",
+                    "localname": "PULJATWADA - NEEL KHUDANA",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0133",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "02d4e9ec-f9f2-411c-9b77-04a848c15eb0",
+                "boundaryNum": 1,
+                "name": "PANDEWALA",
+                "localname": "PANDEWALA",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W928101",
+                "children": [
+                  {
+                    "id": "3eaca13a-c732-47b1-9c22-378318fc5b89",
+                    "boundaryNum": 1,
+                    "name": "PANDEYWALA - PANDEWALA",
+                    "localname": "PANDEYWALA - PANDEWALA",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0134",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "4efc1d2c-3428-4cd6-9fba-80ee6abda77e",
+                    "boundaryNum": 1,
+                    "name": "CHAKLAAN - PANDEWALA",
+                    "localname": "CHAKLAAN - PANDEWALA",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0135",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "8815303c-adae-46dc-9089-05a9d33f2afd",
+                "boundaryNum": 1,
+                "name": "CHAKLAN",
+                "localname": "CHAKLAN",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W928102",
+                "children": [
+                  {
+                    "id": "11e525e2-db37-46c8-ae60-c2f50761cfe5",
+                    "boundaryNum": 1,
+                    "name": "CHAKLAAN - CHAKLAN",
+                    "localname": "CHAKLAAN - CHAKLAN",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0136",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "e50dfad7-a0f1-4bde-8ca6-370bed407639",
+                "boundaryNum": 1,
+                "name": "LAKEDHARAN",
+                "localname": "LAKEDHARAN",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W928103",
+                "children": [
+                  {
+                    "id": "73f1495c-1b2f-4a86-b73d-973921d46a5e",
+                    "boundaryNum": 1,
+                    "name": "LAKKADHARAN - LAKEDHARAN",
+                    "localname": "LAKKADHARAN - LAKEDHARAN",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0137",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "be430219-839e-49b4-8ac7-99a1dc4d99d0",
+                    "boundaryNum": 1,
+                    "name": "FIRAHEDIYAN - LAKEDHARAN",
+                    "localname": "FIRAHEDIYAN - LAKEDHARAN",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0138",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "31bff827-0bcc-47ad-86ac-dc1fa34c2108",
+                    "boundaryNum": 1,
+                    "name": "MALIYAN - LAKEDHARAN",
+                    "localname": "MALIYAN - LAKEDHARAN",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0139",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "9a989b4f-5f89-472e-9954-974d8b2ba6bd",
+                    "boundaryNum": 1,
+                    "name": "KUTTIMARAN - LAKEDHARAN",
+                    "localname": "KUTTIMARAN - LAKEDHARAN",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0140",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "36256ad9-ae87-4851-9c98-244c9e5551f4",
+                    "boundaryNum": 1,
+                    "name": "DAATMNADI - LAKEDHARAN",
+                    "localname": "DAATMNADI - LAKEDHARAN",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0141",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "de1a621e-6f1c-4349-aa9e-c9c6df2d74e6",
+                    "boundaryNum": 1,
+                    "name": "KATHARA BAZAR - LAKEDHARAN",
+                    "localname": "KATHARA BAZAR - LAKEDHARAN",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0142",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "beccc8c5-5bd2-46c3-bc1c-2cff1f69929d",
+                "boundaryNum": 1,
+                "name": "MAIDANIYAN",
+                "localname": "MAIDANIYAN",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W928104",
+                "children": [
+                  {
+                    "id": "b2fa1d23-d524-475f-b698-5087e7a292cc",
+                    "boundaryNum": 1,
+                    "name": "MAIDANIYAN - MAIDANIYAN",
+                    "localname": "MAIDANIYAN - MAIDANIYAN",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0143",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "ee5c717d-f774-485d-a296-352200d46c56",
+                    "boundaryNum": 1,
+                    "name": "NALIYAN - MAIDANIYAN",
+                    "localname": "NALIYAN - MAIDANIYAN",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0144",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "0af6dda1-014c-4344-9ca7-45da00e12f0a",
+                "boundaryNum": 1,
+                "name": "GHOSIYAN",
+                "localname": "GHOSIYAN",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W928105",
+                "children": [
+                  {
+                    "id": "2ae0875a-8f87-49d6-abd3-1b7c62477b63",
+                    "boundaryNum": 1,
+                    "name": "GHOSIYAN - GHOSIYAN",
+                    "localname": "GHOSIYAN - GHOSIYAN",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0145",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "b1630df7-cb23-4750-b487-8d8c0a98e93a",
+                "boundaryNum": 1,
+                "name": "EHBAB NAGAR",
+                "localname": "EHBAB NAGAR",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W928107",
+                "children": [
+                  {
+                    "id": "b9eab3cf-8dc0-4f54-bd3d-0042c42490a4",
+                    "boundaryNum": 1,
+                    "name": "EHBAABNAGAR - EHBAB NAGAR",
+                    "localname": "EHBAABNAGAR - EHBAB NAGAR",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0146",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "8440b448-de4e-45fe-9592-c0911f61ff43",
+                    "boundaryNum": 1,
+                    "name": "GHOSIYAN - EHBAB NAGAR",
+                    "localname": "GHOSIYAN - EHBAB NAGAR",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0147",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "ae1fe593-2599-4c65-9af3-795e0c3564dd",
+                "boundaryNum": 1,
+                "name": "VISHNU LOK",
+                "localname": "VISHNU LOK",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W928108",
+                "children": [
+                  {
+                    "id": "dcbcae81-d4c8-45dd-a638-4af65fbe124d",
+                    "boundaryNum": 1,
+                    "name": "VISHNULOK - VISHNU LOK",
+                    "localname": "VISHNULOK - VISHNU LOK",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0148",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "ca6edc3c-2714-43ba-98a7-fbeaef0a7386",
+                    "boundaryNum": 1,
+                    "name": "DONGRIYA - VISHNU LOK",
+                    "localname": "DONGRIYA - VISHNU LOK",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0149",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "a5663262-ab06-4630-9ae4-7605fa7a1903",
+                "boundaryNum": 1,
+                "name": "GURUKUL",
+                "localname": "GURUKUL",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W928109",
+                "children": [
+                  {
+                    "id": "ccb38d5a-73f1-4e68-9d38-7e888e3dc566",
+                    "boundaryNum": 1,
+                    "name": "BHAGVATIPURAM - GURUKUL",
+                    "localname": "BHAGVATIPURAM - GURUKUL",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0150",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "19a04325-062e-497d-9f05-caa68ed374e2",
+                    "boundaryNum": 1,
+                    "name": "RAM BIHAR COLONY - GURUKUL",
+                    "localname": "RAM BIHAR COLONY - GURUKUL",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0151",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "1decac77-630e-4b43-8e37-301a9d0b0a8a",
+                "boundaryNum": 1,
+                "name": "SHIVPURI",
+                "localname": "SHIVPURI",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W928110",
+                "children": [
+                  {
+                    "id": "3825919d-7bd4-4700-be58-534ee7f663a4",
+                    "boundaryNum": 1,
+                    "name": "SHIVPURI - SHIVPURI",
+                    "localname": "SHIVPURI - SHIVPURI",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0152",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "10f24a04-1222-4cdc-85ef-839d2ff0923c",
+                "boundaryNum": 1,
+                "name": "HANUMANT PURAM",
+                "localname": "HANUMANT PURAM",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W928111",
+                "children": [
+                  {
+                    "id": "7aba1a4d-d75b-4431-a66d-0043a4b6bd9d",
+                    "boundaryNum": 1,
+                    "name": "HANUMANTPURAM - HANUMANT PURAM",
+                    "localname": "HANUMANTPURAM - HANUMANT PURAM",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0153",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "08025e01-82b8-4171-8351-88a93f523242",
+                "boundaryNum": 1,
+                "name": "JAGJEETPUR",
+                "localname": "JAGJEETPUR",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W928112",
+                "children": [
+                  {
+                    "id": "c2480ec5-7964-4adf-b220-27ed27e2e1e7",
+                    "boundaryNum": 1,
+                    "name": "JAGJEETPUR GRMEEN - JAGJEETPUR",
+                    "localname": "JAGJEETPUR GRMEEN - JAGJEETPUR",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0154",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "a0e51de5-acd7-4e5c-9688-34d2b667f014",
+                "boundaryNum": 1,
+                "name": "RAJA GARDEN",
+                "localname": "RAJA GARDEN",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W928113",
+                "children": [
+                  {
+                    "id": "fc2bbfed-4148-455e-99cc-482e7523e231",
+                    "boundaryNum": 1,
+                    "name": "RAJA GARDEN - RAJA GARDEN",
+                    "localname": "RAJA GARDEN - RAJA GARDEN",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0155",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "a33d6c80-8351-4d3a-a500-b055a802a098",
+                    "boundaryNum": 1,
+                    "name": "ASHUTOSH VIHAR - RAJA GARDEN",
+                    "localname": "ASHUTOSH VIHAR - RAJA GARDEN",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0156",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "8f16e805-578d-43d0-8fb5-24368afded15",
+                    "boundaryNum": 1,
+                    "name": "BAGH VALI COLONY - RAJA GARDEN",
+                    "localname": "BAGH VALI COLONY - RAJA GARDEN",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0157",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "8f7a3b77-9fbf-4af4-bd41-1d94501574a8",
+                "boundaryNum": 1,
+                "name": "SITAPUR",
+                "localname": "SITAPUR",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W928114",
+                "children": [
+                  {
+                    "id": "e89ece29-8ea6-496b-80ed-95aeb3ebba40",
+                    "boundaryNum": 1,
+                    "name": "SITAPUR - SITAPUR",
+                    "localname": "SITAPUR - SITAPUR",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0158",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "e24138ce-bd00-452a-93f0-c6051a2037ce",
+                    "boundaryNum": 1,
+                    "name": "DWARIKA VIHAR - SITAPUR",
+                    "localname": "DWARIKA VIHAR - SITAPUR",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0159",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "0e691f70-ea0c-4943-9d18-f53e0b725824",
+                    "boundaryNum": 1,
+                    "name": "SHUBHAM BIHAR - SITAPUR",
+                    "localname": "SHUBHAM BIHAR - SITAPUR",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0160",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "6292bae4-b1b1-4f5b-9aa0-cbc478787787",
+                    "boundaryNum": 1,
+                    "name": "JANKIPURAM - SITAPUR",
+                    "localname": "JANKIPURAM - SITAPUR",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0161",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "ad1dd4ce-36b3-469f-b4d6-2811f7d17837",
+                "boundaryNum": 1,
+                "name": "HARILOK",
+                "localname": "HARILOK",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W928115",
+                "children": [
+                  {
+                    "id": "3da70a75-c841-4654-8728-be2c600a8a62",
+                    "boundaryNum": 1,
+                    "name": "HARILOK COLONY - HARILOK",
+                    "localname": "HARILOK COLONY - HARILOK",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0162",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "cf692360-778e-40cc-bcd3-969e9a08b863",
+                    "boundaryNum": 1,
+                    "name": "SITAPUR - HARILOK",
+                    "localname": "SITAPUR - HARILOK",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0163",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "3845d130-c67b-492f-8fbe-e3f937f7d657",
+                    "boundaryNum": 1,
+                    "name": "JURS COUNTRY - HARILOK",
+                    "localname": "JURS COUNTRY - HARILOK",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0164",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "824120dc-a7bb-4d12-90cc-19fc1147696c",
+                    "boundaryNum": 1,
+                    "name": "SANDESH VIHAR - HARILOK",
+                    "localname": "SANDESH VIHAR - HARILOK",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0165",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "4d04c730-30af-42df-85fd-a5b5164340b7",
+                    "boundaryNum": 1,
+                    "name": "RAJLOK COLONY - HARILOK",
+                    "localname": "RAJLOK COLONY - HARILOK",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0166",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "5d6b294f-e29d-4517-ae9d-0dfa0fe71b76",
+                    "boundaryNum": 1,
+                    "name": "GYANLOK COLONY - HARILOK",
+                    "localname": "GYANLOK COLONY - HARILOK",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0167",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "ef7d577e-55d2-4dea-9c1a-648fd368d1a7",
+                    "boundaryNum": 1,
+                    "name": "SRISTY VIHAR - HARILOK",
+                    "localname": "SRISTY VIHAR - HARILOK",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0168",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "8990dd9d-caf6-4873-959a-0e267535e305",
+                    "boundaryNum": 1,
+                    "name": "GOVIND GARDEN - HARILOK",
+                    "localname": "GOVIND GARDEN - HARILOK",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0169",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "dce321e6-ae2e-48bb-8293-c0d2d591f10e",
+                "boundaryNum": 1,
+                "name": "APAR ROAD",
+                "localname": "APAR ROAD",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W928116",
+                "children": [
+                  {
+                    "id": "a762c05b-d800-4d5d-959c-b83e23a28265",
+                    "boundaryNum": 1,
+                    "name": "APAR ROAD - APAR ROAD",
+                    "localname": "APAR ROAD - APAR ROAD",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0179",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}
+

@@ -1,0 +1,375 @@
+{
+  "tenantId": "bh.health",
+  "moduleName": "RAINMAKER-PGR",
+  "GrNature": [
+    {
+      "id": 1,
+      "stateId": 6,
+      "grievanceTypeId": 1,
+      "name": "Service related",
+      "description": "Service related",
+      "status": "active",
+      "code": "SERVICERELATED"
+    },
+    {
+      "id": 2,
+      "stateId": 6,
+      "grievanceTypeId": 1,
+      "name": "ASHA related",
+      "description": "ASHA related",
+      "status": "active",
+      "code": "ASHARELATED"
+    },
+    {
+      "id": 3,
+      "stateId": 6,
+      "grievanceTypeId": 1,
+      "name": "Referral Transportation",
+      "description": "Referral Transportation",
+      "status": "active",
+      "code": "REFERRALTRANSPORTATION"
+    },
+    {
+      "id": 4,
+      "stateId": 6,
+      "grievanceTypeId": 1,
+      "name": "Non availability of HR & Doctor",
+      "description": "Non availability of HR & Doctor",
+      "status": "active",
+      "code": "NONAVAILABILITYOFHR&DOCTOR"
+    },
+    {
+      "id": 5,
+      "stateId": 6,
+      "grievanceTypeId": 1,
+      "name": "Drug Related",
+      "description": "Drug Related",
+      "status": "active",
+      "code": "DRUGRELATED"
+    },
+    {
+      "id": 6,
+      "stateId": 6,
+      "grievanceTypeId": 1,
+      "name": "Payment related",
+      "description": "Payment related",
+      "status": "active",
+      "code": "PAYMENTRELATED"
+    },
+    {
+      "id": 7,
+      "stateId": 6,
+      "grievanceTypeId": 1,
+      "name": "Quality of Infrastructure",
+      "description": "Quality of Infrastructure",
+      "status": "active",
+      "code": "QUALITYOFINFRASTRUCTURE"
+    },
+    {
+      "id": 8,
+      "stateId": 6,
+      "grievanceTypeId": 1,
+      "name": "Medical College Related",
+      "description": "Medical College Related",
+      "status": "active",
+      "code": "MEDICALCOLLEGERELATED"
+    },
+    {
+      "id": 9,
+      "stateId": 6,
+      "grievanceTypeId": 1,
+      "name": "Others",
+      "description": "Others",
+      "status": "active",
+      "code": "OTHERS"
+    },
+    {
+      "id": 36,
+      "stateId": 6,
+      "grievanceTypeId": 1,
+      "name": "Aayushman Bharat",
+      "description": "Aayushman Bharat",
+      "status": "active",
+      "code": "AAYUSHMANBHARAT"
+    },
+    {
+      "id": 37,
+      "stateId": 6,
+      "grievanceTypeId": 1,
+      "name": "Generic Related",
+      "description": "GenericRelated",
+      "status": "active",
+      "code": "GENERICRELATED"
+    },
+    {
+      "id": 40,
+      "stateId": 6,
+      "grievanceTypeId": 1,
+      "name": "SUMAN",
+      "description": "SUMAN",
+      "status": "active",
+      "code": "SUMAN"
+    },
+    {
+      "id": 27,
+      "stateId": 6,
+      "grievanceTypeId": 2,
+      "name": "Service related",
+      "description": "Service related",
+      "status": "active",
+      "code": "SERVICERELATED"
+    },
+    {
+      "id": 28,
+      "stateId": 6,
+      "grievanceTypeId": 2,
+      "name": "Non availability of Kit & Equipment",
+      "description": "Non availability of Kit & Equipment",
+      "status": "active",
+      "code": "NONAVAILABILITYOFKIT&EQUIPMENT"
+    },
+    {
+      "id": 29,
+      "stateId": 6,
+      "grievanceTypeId": 2,
+      "name": "Referral Transportation",
+      "description": "Referral Transportation",
+      "status": "active",
+      "code": "REFERRALTRANSPORTATION"
+    },
+    {
+      "id": 30,
+      "stateId": 6,
+      "grievanceTypeId": 2,
+      "name": "Non availability of HR & Doctor",
+      "description": "Non availability of HR & Doctor",
+      "status": "active",
+      "code": "NONAVAILABILITYOFHR&DOCTOR"
+    },
+    {
+      "id": 31,
+      "stateId": 6,
+      "grievanceTypeId": 2,
+      "name": "Drug Related",
+      "description": "Drug Related",
+      "status": "active",
+      "code": "DRUGRELATED"
+    },
+    {
+      "id": 32,
+      "stateId": 6,
+      "grievanceTypeId": 2,
+      "name": "Payment related",
+      "description": "Payment related",
+      "status": "active",
+      "code": "PAYMENTRELATED"
+    },
+    {
+      "id": 33,
+      "stateId": 6,
+      "grievanceTypeId": 2,
+      "name": "Quality of Infrastructure",
+      "description": "Quality of Infrastructure",
+      "status": "active",
+      "code": "QUALITYOFINFRASTRUCTURE"
+    },
+    {
+      "id": 34,
+      "stateId": 6,
+      "grievanceTypeId": 2,
+      "name": "Medical College Related",
+      "description": "Medical College Related",
+      "status": "active",
+      "code": "MEDICALCOLLEGERELATED"
+    },
+    {
+      "id": 35,
+      "stateId": 6,
+      "grievanceTypeId": 2,
+      "name": "Others",
+      "description": "Others",
+      "status": "active",
+      "code": "OTHERS"
+    },
+    {
+      "id": 38,
+      "stateId": 6,
+      "grievanceTypeId": 2,
+      "name": "Generic Related",
+      "description": "Generic Related",
+      "status": "active",
+      "code": "GENERICRELATED"
+    },
+    {
+      "id": 39,
+      "stateId": 6,
+      "grievanceTypeId": 2,
+      "name": "Aayushman Bharat",
+      "description": "Aayushman Bharat",
+      "status": "active",
+      "code": "AAYUSHMANBHARAT"
+    },
+    {
+      "id": 10,
+      "stateId": 6,
+      "grievanceTypeId": 3,
+      "name": "Outbreak of Disease and Disaster",
+      "description": "Outbreak of Disease and Disaster",
+      "status": "active",
+      "code": "OUTBREAKOFDISEASEANDDISASTER"
+    },
+    {
+      "id": 11,
+      "stateId": 6,
+      "grievanceTypeId": 3,
+      "name": "Blood in motion",
+      "description": "Blood in motion",
+      "status": "active",
+      "code": "BLOODINMOTION"
+    },
+    {
+      "id": 12,
+      "stateId": 6,
+      "grievanceTypeId": 3,
+      "name": "Blood in urine",
+      "description": "Blood in urine",
+      "status": "active",
+      "code": "BLOODINURINE"
+    },
+    {
+      "id": 13,
+      "stateId": 6,
+      "grievanceTypeId": 3,
+      "name": "Blood in vomiting",
+      "description": "Blood in vomiting",
+      "status": "active",
+      "code": "BLOODINVOMITING"
+    },
+    {
+      "id": 14,
+      "stateId": 6,
+      "grievanceTypeId": 3,
+      "name": "Blood in coughing",
+      "description": "Blood in coughing",
+      "status": "active",
+      "code": "BLOODINCOUGHING"
+    },
+    {
+      "id": 15,
+      "stateId": 6,
+      "grievanceTypeId": 3,
+      "name": "Breathlessness",
+      "description": "Breathlessness",
+      "status": "active",
+      "code": "BREATHLESSNESS"
+    },
+    {
+      "id": 16,
+      "stateId": 6,
+      "grievanceTypeId": 3,
+      "name": "Dehydration",
+      "description": "Dehydration",
+      "status": "active",
+      "code": "DEHYDRATION"
+    },
+    {
+      "id": 17,
+      "stateId": 6,
+      "grievanceTypeId": 3,
+      "name": "Fever",
+      "description": "Fever",
+      "status": "active",
+      "code": "FEVER"
+    },
+    {
+      "id": 18,
+      "stateId": 6,
+      "grievanceTypeId": 3,
+      "name": "Loose motions",
+      "description": "Loose motions",
+      "status": "active",
+      "code": "LOOSEMOTIONS"
+    },
+    {
+      "id": 19,
+      "stateId": 6,
+      "grievanceTypeId": 3,
+      "name": "Others",
+      "description": "Others",
+      "status": "active",
+      "code": "OTHERS"
+    },
+    {
+      "id": 20,
+      "stateId": 6,
+      "grievanceTypeId": 3,
+      "name": "Pain abdomen",
+      "description": "Pain abdomen",
+      "status": "active",
+      "code": "PAINABDOMEN"
+    },
+    {
+      "id": 21,
+      "stateId": 6,
+      "grievanceTypeId": 3,
+      "name": "Unconscious",
+      "description": "Unconscious",
+      "status": "active",
+      "code": "UNCONSCIOUS"
+    },
+    {
+      "id": 22,
+      "stateId": 6,
+      "grievanceTypeId": 3,
+      "name": "Vomiting",
+      "description": "Vomiting",
+      "status": "active",
+      "code": "VOMITING"
+    },
+    {
+      "id": 23,
+      "stateId": 6,
+      "grievanceTypeId": 3,
+      "name": "Diarrhoea",
+      "description": "Diarrhoea",
+      "status": "active",
+      "code": "DIARRHOEA"
+    },
+    {
+      "id": 24,
+      "stateId": 6,
+      "grievanceTypeId": 3,
+      "name": "Japanese encephalitis",
+      "description": "Japanese encephalitis",
+      "status": "active",
+      "code": "JAPANESEENCEPHALITIS"
+    },
+    {
+      "id": 25,
+      "stateId": 6,
+      "grievanceTypeId": 3,
+      "name": "Dengue",
+      "description": "Dengue",
+      "status": "active",
+      "code": "DENGUE"
+    },
+    {
+      "id": 26,
+      "stateId": 6,
+      "grievanceTypeId": 3,
+      "name": "Malaria",
+      "description": "Malaria",
+      "status": "active",
+      "code": "MALARIA"
+    },
+    {
+      "id": 126,
+      "stateId": 6,
+      "grievanceTypeId": 3,
+      "name": "Tes123",
+      "description": "Test123",
+      "status": "active",
+      "code": "TEST123"
+    }
+  ]
+}

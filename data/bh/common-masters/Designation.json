@@ -1,0 +1,282 @@
+{
+    "tenantId": "bh",
+    "moduleName": "common-masters",
+    "Designation": [
+        {
+          "name": "Nodal Officer",
+          "code": "NODAL_OFFICER",
+          "description": "",
+          "active": true
+        },
+        {
+          "name": "Incharge",
+          "code": "INCHARGE",
+          "description": "",
+          "active": true
+        },
+        {
+          "name": "Counsellor",
+          "code": "COUNSELLOR",
+          "description": "",
+          "active": true
+        },
+        {
+          "name": "Project Director",
+          "code": "PROJECT_DIRECTOR",
+          "description": "",
+          "active": true
+        },
+        {
+          "name": "Administrator",
+          "code": "ADMINISTRATOR",
+          "description": "",
+          "active": true
+        },
+        {
+          "name": "RMO",
+          "code": "RMO",
+          "description": "",
+          "active": true
+        },
+        {
+          "name": "Dean Medical College",
+          "code": "DEAN_MEDICAL_COLLEGE",
+          "description": "",
+          "active": true
+        },
+        {
+          "name": "Director Medical & Health Department",
+          "code": "DIRECTOR_MEDICAL_HEALTH_DEPARTMENT",
+          "description": "",
+          "active": true
+        },
+        {
+          "name": "Medical Officer",
+          "code": "MEDICAL_OFFICER",
+          "description": "",
+          "active": true
+        },
+        {
+          "name": "Driver",
+          "code": "DRIVER",
+          "description": "",
+          "active": true
+        },
+        {
+          "name": "Drug Controller",
+          "code": "DRUG_CONTROLLER",
+          "description": "",
+          "active": true
+        },
+        {
+          "name": "Health Worker",
+          "code": "HEALTH_WORKER",
+          "description": "",
+          "active": true
+        },
+        {
+          "name": "Lab Technician",
+          "code": "LAB_TECHNICIAN",
+          "description": "",
+          "active": true
+        },
+        {
+          "name": "Lay Secretory",
+          "code": "LAY_SECRETORY",
+          "description": "",
+          "active": true
+        },
+        {
+          "name": "Lecturer",
+          "code": "LECTURER",
+          "description": "",
+          "active": true
+        },
+        {
+          "name": "Matron",
+          "code": "MATRON",
+          "description": "",
+          "active": true
+        },
+        {
+          "name": "Medical Superintendent",
+          "code": "MEDICAL_SUPERINTENDENT",
+          "description": "",
+          "active": true
+        },
+        {
+          "name": "MPHW (m)",
+          "code": "MPHW",
+          "description": "",
+          "active": true
+        },
+        {
+          "name": "Nurse",
+          "code": "NURSE",
+          "description": "",
+          "active": true
+        },
+        {
+          "name": "ASHA",
+          "code": "ASHA",
+          "description": "",
+          "active": true
+        },
+        {
+          "name": "Office Superintendent",
+          "code": "OFFICE_SUPERINTENDENT",
+          "description": "",
+          "active": true
+        },
+        {
+          "name": "Other Technician",
+          "code": "OTHER_TECHNICIAN",
+          "description": "",
+          "active": true
+        },
+        {
+          "name": "Others",
+          "code": "OTHERS",
+          "description": "",
+          "active": true
+        },
+        {
+          "name": "Registrar",
+          "code": "REGISTRAR",
+          "description": "",
+          "active": true
+        },
+        {
+          "name": "Doctor",
+          "code": "DOCTOR",
+          "description": "",
+          "active": true
+        },
+        {
+          "name": "TC Specialist",
+          "code": "TC_SPECIALIST",
+          "description": "",
+          "active": true
+        },
+        {
+          "name": "Oncologist",
+          "code": "ONCOLOGIST",
+          "description": "",
+          "active": true
+        },
+        {
+          "name": "Pharmacist",
+          "code": "PHARMACIST",
+          "description": "",
+          "active": true
+        },
+        {
+          "name": "Radiologist",
+          "code": "RADIOLOGIST",
+          "description": "",
+          "active": true
+        },
+        {
+          "name": "Supervisor",
+          "code": "SUPERVISOR",
+          "description": "",
+          "active": true
+        },
+        {
+          "name": "Facility Nodal officer",
+          "code": "FACILITY_NODAL_OFFICER",
+          "description": "",
+          "active": true
+        },
+        {
+          "name": "Medical Officer In Charge",
+          "code": "MEDICAL_OFFICER_IN_CHARGE",
+          "description": "",
+          "active": true
+        },
+        {
+          "name": "Block Medical Officer",
+          "code": "BLOCK_MEDICAL_OFFICER",
+          "description": "",
+          "active": true
+        },
+        {
+          "name": "District Nodal Officer",
+          "code": "DISTRICT_NODAL_OFFICER",
+          "description": "",
+          "active": true
+        },
+        {
+          "name": "chief Medical officer",
+          "code": "CHIEF_MEDICAL_OFFICER",
+          "description": "",
+          "active": true
+        },
+        {
+          "name": "State Nodal officer",
+          "code": "STATE_NODAL_OFFICER",
+          "description": "",
+          "active": true
+        },
+        {
+          "name": "ED- NHM",
+          "code": "ED_NHM",
+          "description": "",
+          "active": true
+        },
+        {
+          "name": "Principal Secretary Health",
+          "code": "PRINCIPAL_SECRETARY_HEALTH",
+          "description": "",
+          "active": true
+        },
+        {
+          "name": "Principal Secretary - Health, Govt of Bihar",
+          "code": "PRINCIPAL_SECRETARY_HEALTH",
+          "description": "",
+          "active": true
+        },
+        {
+          "name": "Division Nodal Officer",
+          "code": "DIVISION_NODAL_OFFICER",
+          "description": "",
+          "active": true
+        },
+        {
+          "name": "Asst Nodal Officer",
+          "code": "ASST_NODAL_OFFICER",
+          "description": "",
+          "active": true
+        },
+        {
+          "name": "RPMU Nodal Officer",
+          "code": "RPMU_NODAL_OFFICER",
+          "description": "",
+          "active": true
+        },
+        {
+          "name": "Medical College Nodal Officer",
+          "code": "MEDICAL_COLLEGE_NODAL_OFFICER",
+          "description": "",
+          "active": true
+        },
+        {
+          "name": "State Program Officer",
+          "code": "STATE_PROGRAM_OFFICER",
+          "description": "",
+          "active": true
+        },
+        {
+          "name": "superintendent - Medical College",
+          "code": "SUPERINTENDENT_MEDICAL_COLLEGE",
+          "description": "",
+          "active": true
+        },
+        {
+          "name": "General Public",
+          "code": "GENERAL_PUBLIC",
+          "description": "",
+          "active": true
+        }
+    ]
+  }

@@ -1,0 +1,503 @@
+{
+  "tenantId": "bh",
+  "moduleName": "tenant",
+  "citymodule": [
+    {
+      "module": "ILMS",
+      "code": "ILMS",
+      "bannerImage": "https://s3-piramal-ilms.s3.us-east-1.amazonaws.com/images/pgr-image/back_ground.png",
+      "active": false,
+      "order":2,
+      "tenants": [
+        {
+          "code": "bh"
+        }
+      ]
+    },	  
+    {
+      "module": "PGR",
+      "code": "PGR",
+      "bannerImage": "https://s3-piramal-ilms.s3.us-east-1.amazonaws.com/images/pgr-image/back_ground.png",
+      "active": true,
+      "order":2,
+      "tenants": [
+        {
+          "code": "bh.health"
+        }
+      ]
+    },
+    {
+      "module": "PT",
+      "code": "PT",
+      "bannerImage": "https://egov-uatassets.s3.ap-south-1.amazonaws.com/Wallpaper.png",
+      "active": false,
+      "order":1,
+      "tenants": [
+        {
+          "code": "pg.citya"
+        },
+        {
+          "code": "pg.cityb"
+        },
+        {
+          "code": "pg.cityc"
+        },
+        {
+          "code": "pg.cityd"
+        },
+        {
+          "code": "pg.citye"
+        }
+      ]
+    },
+    {
+      "module": "QuickPayLinks",
+      "code": "QuickPayLinks",
+      "active": false,
+      "order":1,
+      "tenants": [
+        {
+          "code": "pg.citya"
+        },
+        {
+          "code": "pg.cityb"
+        },
+        {
+          "code": "pg.cityc"
+        }
+      ]
+    },
+   {
+      "module": "Finance",
+      "code": "Finance",
+      "active": false,
+      "order":4,
+      "tenants": [
+        {
+          "code": "pg.citya"
+        },
+        {
+          "code": "pg.cityb"
+        },
+        {
+          "code": "pg.cityc"
+        },
+        {
+          "code": "pg.cityd"
+        },
+        {
+          "code": "pg.citye"
+        }
+      ]
+    },
+    {
+      "module": "TL",
+      "code": "TL",
+      "bannerImage": "https://egov-uatassets.s3.ap-south-1.amazonaws.com/Wallpaper.png",
+      "active": false,
+      "order":2,
+      "tenants": [
+        {
+          "code": "pg.citya"
+        },
+        {
+          "code": "pg.cityb"
+        },
+        {
+          "code": "pg.cityc"
+        },
+        {
+          "code": "pg.cityd"
+        },
+        {
+          "code": "pg.citye"
+        }
+      ]
+    },
+    {
+      "module": "FIRENOC",
+      "code": "FIRENOC",
+      "active": false,
+      "order":2,
+      "tenants": [
+        {
+          "code": "pg.citya"
+        },
+        {
+          "code": "pg.cityb"
+        },
+        {
+          "code": "pg.cityc"
+        },
+        {
+          "code": "pg.cityd"
+        },
+        {
+          "code": "pg.citye"
+        }
+      ]
+    },
+    {
+      "module": "UC",
+      "code": "UC",
+      "active": false,
+      "order":2,
+      "tenants": [
+        {
+          "code": "pg.citya"
+        },
+        {
+          "code": "pg.cityb"
+        },
+        {
+          "code": "pg.cityc"
+        },
+        {
+          "code": "pg.cityd"
+        },
+        {
+          "code": "pg.citye"
+        }
+      ]
+    },
+    {
+      "module": "BPAREG",
+      "code": "BPAREG",
+      "bannerImage": "https://egov-uatassets.s3.ap-south-1.amazonaws.com/Wallpaper.png",
+      "active": true,
+      "order":2,
+      "tenants": [
+        {
+          "code": "pg.citya"
+        },
+        {
+          "code": "pg.cityb"
+        },
+        {
+          "code": "pg.cityc"
+        },
+        {
+          "code": "pg.cityd"
+        },
+        {
+          "code": "pg.citye"
+        }
+      ]
+    },
+    {
+      "module": "BPAAPPLY",
+      "code": "BPAAPPLY",
+      "bannerImage": "https://egov-uatassets.s3.ap-south-1.amazonaws.com/Wallpaper.png",
+      "active": true,
+      "order":2,
+      "tenants": [
+        {
+          "code": "pg.citya"
+        },
+        {
+          "code": "pg.cityb"
+        },
+        {
+          "code": "pg.cityc"
+        },
+        {
+          "code": "pg.cityd"
+        },
+        {
+          "code": "pg.citye"
+        }
+      ]
+    },
+    {
+      "module": "PGR.WHATSAPP",
+      "code": "PGR.WHATSAPP",
+      "active": false,
+      "order":4,
+      "tenants": [
+        {
+          "code": "pg.citya"
+        }
+      ]
+    },
+    {
+      "module": "OBPS",
+      "code": "OBPS",
+      "bannerImage": "https://egov-uatassets.s3.ap-south-1.amazonaws.com/Wallpaper.png",
+      "active": false,
+      "order":2,
+      "tenants": [
+        {
+          "code": "pg.citya"
+        },
+        {
+          "code": "pg.cityb"
+        },
+        {
+          "code": "pg.cityc"
+        },
+        {
+          "code": "pg.cityd"
+        },
+        {
+          "code": "pg.citye"
+        }
+      ]
+    },
+    {
+      "module": "FSM",
+      "code": "FSM",
+      "active": false,
+      "order":2,
+      "tenants": [
+        {
+          "code": "pg.citya"
+        },
+        {
+          "code": "pg.cityb"
+        },
+        {
+          "code": "pg.cityc"
+        },
+        {
+          "code": "pg.cityd"
+        },
+        {
+          "code": "pg.citye"
+        },
+	{
+          "code": "pg.balasore"
+        }
+      ]
+    },
+    {
+      "module": "Payment",
+      "code": "Payment",
+      "active": false,
+      "order":1,
+      "tenants": [
+        {
+          "code": "pg.citya"
+        },
+        {
+          "code": "pg.cityb"
+        },
+        {
+          "code": "pg.cityc"
+        },
+        {
+          "code": "pg.cityd"
+        },
+        {
+          "code": "pg.citye"
+        }
+      ]
+    },
+    {
+      "module": "Receipts",
+      "code": "Receipts",
+      "active": false,
+      "order":3,
+      "tenants": [
+        {
+          "code": "pg.citya"
+        },
+        {
+          "code": "pg.cityb"
+        },
+        {
+          "code": "pg.cityc"
+        },
+        {
+          "code": "pg.cityd"
+        },
+        {
+          "code": "pg.citye"
+        }
+      ]
+    },
+    {
+      "module": "NOC",
+      "code": "NOC",
+      "active": false,
+      "order":2,
+      "tenants": [
+        {
+          "code": "pg.citya"
+        },
+        {
+          "code": "pg.cityb"
+        },
+        {
+          "code": "pg.cityc"
+        },
+        {
+          "code": "pg.cityd"
+        },
+        {
+          "code": "pg.citye"
+        }
+      ]
+    },
+    {
+      "module": "DSS",
+      "code": "DSS",
+      "active": true,
+      "order":6,
+      "tenants": [
+        {
+          "code": "bh"
+        },
+        {
+          "code": "bh.health"
+        }
+        
+      ]
+    },   
+    {
+      "module": "MCollect",
+      "code": "MCollect",
+      "active": false,
+      "order":1,
+      "tenants": [
+        {
+          "code": "pg.citya"
+        },
+        {
+          "code": "pg.cityb"
+        },
+        {
+          "code": "pg.cityc"
+        },
+        {
+          "code": "pg.cityd"
+        },
+        {
+          "code": "pg.citye"
+        }
+      ]
+    },
+    {
+      "module": "HRMS",
+      "code": "HRMS",
+      "active": true,
+      "order":2,
+      "tenants": [
+        {
+          "code": "bh"
+        },
+        {
+          "code": "bh.health"
+        }
+       
+      ]
+    },
+    {
+      "module": "CommonPT",
+      "code": "CommonPT",
+      "active": false,
+      "order":3,
+      "tenants": [
+        {
+          "code": "pg.citya"
+        },
+        {
+          "code": "pg.cityb"
+        },
+        {
+          "code": "pg.cityc"
+        },
+        {
+          "code": "pg.cityd"
+        },
+        {
+          "code": "pg.citye"
+        }
+      ]
+    },
+    {
+      "module": "NDSS",
+      "code": "NDSS",
+      "active": false,
+      "order":5,
+      "tenants": [
+        {
+          "code": "pg.citya"
+        },
+        {
+          "code": "pg.cityb"
+        },
+        {
+          "code": "pg.cityc"
+        },
+        {
+          "code": "pg.cityd"
+        },
+        {
+          "code": "pg.citye"
+        }
+      ]
+    },
+    {
+      "module": "SW",
+      "code": "SW",
+      "active": true,
+      "order": 1,
+      "tenants": [
+        {
+          "code": "pg.citya"
+        },
+        {
+          "code": "pg.cityb"
+        },
+        {
+          "code": "pg.cityc"
+        }
+      ]
+    },
+    {
+      "module": "BillAmendment",
+      "code": "BillAmendment",
+      "active": true,
+      "order": 1,
+      "tenants": [
+        {
+          "code": "pg.citya"
+        },
+        {
+          "code": "pg.cityb"
+        },
+        {
+          "code": "pg.cityc"
+        }
+      ]
+    },
+    {
+      "module": "Bills",
+      "code": "Bills",
+      "active": true,
+      "order": 3,
+      "tenants": [
+        {
+          "code": "pg.citya"
+        },
+        {
+          "code": "pg.cityb"
+        },
+        {
+          "code": "pg.cityc"
+        }
+      ]
+    },
+    {
+      "module": "Engagement",
+      "code": "Engagement",
+      "active": true,
+      "order": 3,
+      "tenants": [
+        {
+          "code": "bh.health"
+        }
+      ]
+    }
+  ]
+}

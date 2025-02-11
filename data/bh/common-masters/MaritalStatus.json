@@ -1,0 +1,26 @@
+{
+  "tenantId": "bh",
+  "moduleName": "common-masters",
+  "MaritalStatus": [
+    {
+      "name": "Single",
+      "code": "SINGLE",
+      "active": true
+    },
+    {
+      "name": "Married",
+      "code": "MARRIED",
+      "active": true
+    },
+    {
+      "name": "Widowed",
+      "code": "WIDOWED",
+      "active": true
+    },
+    {
+      "name": "Divorced",
+      "code": "DIVORCED",
+      "active": true
+    }
+  ]
+}

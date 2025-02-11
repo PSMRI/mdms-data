@@ -1,2 +1,1 @@
-# mdms-data
-diigit mdms master data
+# egov-mdms-data

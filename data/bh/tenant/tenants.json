@@ -1,0 +1,43 @@
+{
+  "tenantId": "bh",
+  "moduleName": "tenant",
+  "tenants": [
+    {
+      "code": "bh.health",
+      "name": "Bihar",
+      "description": null,
+      "logoId": "https://s3-piramal-ilms.s3.us-east-1.amazonaws.com/images/pgr-image/104.png",
+      "imageId": "",
+      "domainUrl": "",
+      "type": "CITY",
+      "twitterUrl": "",
+      "facebookUrl": "",
+      "emailId": "",
+      "OfficeTimings": {
+        "Mon - Fri": "9.00 AM - 6.00 PM",
+        "Sat": "9.00 AM - 12.00 PM"
+      },
+      "city": {
+        "name": "Bihar",
+        "localName": "Bihar",
+        "districtCode": "",
+        "districtName": "",
+        "regionName": "Bihar",
+        "ulbGrade": "Department Of Health",
+        "longitude": null,
+        "latitude": null,
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": "107",
+        "ddrName": "Bihar-MC"
+      },
+      "address": "",
+      "pincode": [],
+      "contactNumber": "",
+      "helpLineNumber": "",
+      "pdfHeader": "BH_BIHAR",
+      "pdfContactDetails": "BH_BIHAR_CONTACT_DETAILS"
+    }
+  ]
+
+}

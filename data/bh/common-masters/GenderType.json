@@ -1,0 +1,27 @@
+{
+    "tenantId": "bh",
+    "moduleName": "common-masters",
+    "GenderType":
+    [
+      {
+        "name" : "Male",
+        "code": "MALE",
+        "active": true
+      },
+      {
+        "name" : "Female",
+        "code": "FEMALE",
+        "active": true
+      },
+      {
+      "name" : "Transgender",
+        "code": "TRANSGENDER",
+        "active": true
+      },
+      {
+        "name" : "Others",
+        "code": "OTHERS",
+        "active": false
+      }
+    ]
+  }

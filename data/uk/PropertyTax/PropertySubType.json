@@ -1,0 +1,18 @@
+{
+  "tenantId": "uk",
+  "moduleName": "PropertyTax",
+  "PropertySubType": [
+    {
+      "name": "Flat / Part of the building",
+      "code": "SHAREDPROPERTY",
+      "active": false,
+      "propertyType": "BUILTUP"
+    },
+    {
+      "name": "Independent House / Whole Building",
+      "code": "INDEPENDENTPROPERTY",
+      "active": false,
+      "propertyType": "BUILTUP"
+    }
+  ]
+}

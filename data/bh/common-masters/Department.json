@@ -1,0 +1,11 @@
+{ 
+	"tenantId": "bh",
+    	"moduleName": "common-masters",
+    	"Department": [
+        {
+            "name": "Health",
+            "code": "HEALTH",
+            "active": true
+        }
+    ]
+}

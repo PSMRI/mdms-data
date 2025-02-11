@@ -1,0 +1,90 @@
+{
+  "tenantId": "bh",
+  "moduleName": "common-masters",
+  "StateInfo": [
+    {
+      "name": "Demo",
+      "code": "bh",
+      "qrCodeURL":"https://lh3.googleusercontent.com/-311gz2-xcHw/X6KRNSQTkWI/AAAAAAAAAKU/JmHSj-6rKPMVFbo6oL5x4JhYTTg8-UHmwCK8BGAsYHg/s0/2020-11-04.png",
+      "bannerUrl": "https://s3-piramal-ilms.s3.us-east-1.amazonaws.com/images/pgr-image/back_ground.png",
+      "logoUrl": "https://s3-piramal-ilms.s3.us-east-1.amazonaws.com/images/pgr-image/104.png",
+      "topHeaderLogUrl": "https://s3-piramal-ilms.s3.us-east-1.amazonaws.com/images/pgr-image/heading.png",
+      "citizenBanner":"https://s3-piramal-ilms.s3.us-east-1.amazonaws.com/images/pgr-image/104%20Call%20Centre%20logo_bihar.jpg",
+      "logoUrlWhite": "https://s3-piramal-ilms.s3.us-east-1.amazonaws.com/images/pgr-image/104.png",
+      "statelogo":"https://s3-piramal-ilms.s3.us-east-1.amazonaws.com/images/pgr-image/104.png",
+      "hasLocalisation": true,
+      "defaultUrl": {
+        "citizen": "/user/register",
+        "employee": "/user/login"
+      },
+      "languages": [
+        {
+          "label": "ENGLISH",
+          "value": "en_IN"
+        },
+        {
+          "label": "हिंदी",
+          "value": "hi_IN"
+        }
+      ],
+      "localizationModules": [
+        {
+          "label": "rainmaker-abg",
+          "value": "rainmaker-abg"
+        },
+        {
+          "label": "rainmaker-common",
+          "value": "rainmaker-common"
+        },
+        {
+          "label": "rainmaker-noc",
+          "value": "rainmaker-noc"
+        },
+        {
+          "label": "rainmaker-pt",
+          "value": "rainmaker-pt"
+        },
+        {
+          "label": "rainmaker-uc",
+          "value": "rainmaker-uc"
+        },
+        {
+          "label": "rainmaker-pgr",
+          "value": "rainmaker-pgr"
+        },
+        {
+          "label": "rainmaker-tl",
+          "value": "rainmaker-tl"
+        },
+        {
+          "label": "rainmaker-hr",
+          "value": "rainmaker-hr"
+        },
+        {
+          "label": "rainmaker-test",
+          "value": "rainmaker-test"
+        },
+        {
+          "label": "finance-erp",
+          "value": "finance-erp"
+        },
+        {
+          "label": "rainmaker-receipt",
+          "value": "rainmaker-receipt"
+        },
+        {
+          "label": "rainmaker-dss",
+          "value": "rainmaker-dss"
+        },
+        {
+          "label": "rainmaker-fsm",
+          "value": "rainmaker-fsm"
+        },
+        {
+          "label": "rainmaker-ilms",
+          "value": "rainmaker-ilms"
+        }
+      ]
+    }
+  ]
+}

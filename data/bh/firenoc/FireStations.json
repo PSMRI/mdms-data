@@ -1,0 +1,11 @@
+{
+  "tenantId": "bh",
+  "moduleName": "firenoc",
+  "FireStations": [
+    {
+      "code": "FS_CITYA_01",
+      "baseTenantId": "pg.citya",
+      "active": true
+    }
+  ]
+}

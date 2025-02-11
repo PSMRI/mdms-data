@@ -1,0 +1,38 @@
+{
+  "tenantId": "bh.health",
+  "moduleName": "RAINMAKER-PGR",
+  "GrType": [
+    {
+      "id": 1,
+      "stateId": 6,
+      "name": "Generic Complaint",
+      "description": "Generic Complaint",
+      "status": "active",
+      "code": "GENERICCOMPLAINT"
+    },
+    {
+      "id": 2,
+      "stateId": 6,
+      "name": "Asha Complaints",
+      "description": "Asha Complaints",
+      "status": "active",
+      "code": "ASHACOMPLAINTS"
+    },
+    {
+      "id": 3,
+      "stateId": 6,
+      "name": "Epidemic Complaints",
+      "description": "Epidemic Complaint",
+      "status": "active",
+      "code": "EPIDEMICCOMPLAINTS"
+    },
+    {
+      "id": 4,
+      "stateId": 6,
+      "name": "Foodsafety Complaints",
+      "description": "Food Safety Complaints",
+      "status": "active",
+      "code": "FOODSAFETYCOMPLAINTS"
+    }
+  ]
+}

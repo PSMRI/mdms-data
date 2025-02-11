@@ -1,0 +1,27 @@
+{
+  "tenantId": "bh",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "ADMINISTRATION",
+        "name": "ADMINISTRATION"
+      },
+      "boundary":
+      {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Bhopal",
+        "localname": "Bhopal",
+        "longitude": null,
+        "latitude": null,
+        "label": "Bhopal",
+        "code": "mp",
+        "children": [
+
+        ]
+      }
+    }
+   
+  ]
+}
